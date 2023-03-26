@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pa200-social-network-527396'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE204581878B45EEB0A0D272DB4211F9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76D222E451B540BA8AB9B3335A0F69A6 }}
